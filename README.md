@@ -9,13 +9,13 @@ style="max-width:700px">
 <h2 style="max-width:700px" > About Me </h2>
 
 <div style="width:100%; display:flex ; align-items:center ; justify-content:space-around; max-width:700px">
-<ul style="width:45%; font-size:14px">
-  <li>🔭 I’m currently working at Blue Nose</li>
-   <li>🤖 I’m currently studying AI Enginerring at UDESA</li>
-  <li>🌱 I’m currently learning C</li>
-  <li>💬 Ask me about Sql, Java, JavaScript, MongoDB</li>
-  <li>⚡ Fun fact: I like Playing Chess</li>
-</ul>
+<div style="width:45%; font-size:14px; text-align:left">
+  <p>🔭 I’m currently working at Blue Nose</p>
+   <p>🤖 I’m currently studying AI Enginerring at UDESA</p>
+  <p>🌱 I’m currently learning C</p>
+  <p>💬 Ask me about Sql, Java, JavaScript, MongoDB</p>
+  <p>⚡ Fun fact: I like Playing Chess</p>
+</div>
 <img width="45%" align="right" alt="Github" src="./images/animation_500_kxa883sd.gif" />
 </div>
 
@@ -107,9 +107,6 @@ style="max-width:700px">
     <td style="text-align: center; border: 1px solid grey;">
         <img src="https://skillicons.dev/icons?i=apple" alt="">
     </td>
-</tr>
-<tr>
-   <td style="border-bottom: 1px solid transparent">
 </tr>
 </table>
 <table style="width: 100%; border-collapse: collapse; max-width:700px; ">
