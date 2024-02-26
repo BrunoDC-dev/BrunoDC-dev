@@ -18,7 +18,7 @@ Currently, I'm exploring tech at Blue Nose while studying AI Engineering 🤖 at
 
 
 
-<h2 style="max-width:700px ;font-size:30px"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 style="max-width:700px ;font-size:30px"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
 <table style="width: 100%; border-collapse ; max-width:700px;  collapse; ">
   <tr   style="width: 100%;">
     <th style="text-align: center; border: 1px solid grey; width:33%;">
