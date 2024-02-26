@@ -171,7 +171,10 @@ font-size:30px"><img src="./images/giphy.gif" width="30">  Github Stats</h2>
    <a href="https://wa.me/+5491124618992" traget="_blank">
   <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge"/>
  </a>
-
+  <a href="https://discord.com/users/brunodecruz
+  " traget="_blank">
+  <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
 </div>
 
 <!-- GIF FOOTER -->
