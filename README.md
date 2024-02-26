@@ -10,11 +10,7 @@ style="max-width:700px">
 
 <div style="width:100%; display:flex ; align-items:center ; justify-content:space-around; max-width:700px">
 <div style="width:45%; font-size:14px; text-align:left">
-  🔭 I’m currently working at Blue Nose
-   🤖 I’m currently studying AI Enginerring at UDESA
-  🌱 I’m currently learning C
-  💬 Ask me about Sql, Java, JavaScript, MongoDB
-  ⚡ Fun fact: I like Playing Chess
+Currently, I'm exploring tech at Blue Nose while studying AI Engineering 🤖 at UDESA. Learning C 🌱 on the side. Chat with me about SQL, Java, JavaScript, or MongoDB 💬. And when I'm not coding, you'll catch me strategizing on the Chessboard ⚡.
 </div>
 <img width="45%" alt="Github" src="./images/animation_500_kxa883sd.gif" />
 </div>
