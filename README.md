@@ -50,6 +50,7 @@ style="max-width:700px">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="">
         <img src="https://skillicons.dev/icons?i=express"alt="">
     </td>
+     </tr>
 <tr>
     <td style="text-align: center; border: 1px solid grey;">
         <img src="https://skillicons.dev/icons?i=css "alt="">
