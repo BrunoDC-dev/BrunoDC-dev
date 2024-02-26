@@ -16,7 +16,7 @@ style="max-width:700px">
   <p>💬 Ask me about Sql, Java, JavaScript, MongoDB</p>
   <p>⚡ Fun fact: I like Playing Chess</p>
 </div>
-<img width="45%" align="right" alt="Github" src="./images/animation_500_kxa883sd.gif" />
+<img width="45%" alt="Github" src="./images/animation_500_kxa883sd.gif" />
 </div>
 
 
