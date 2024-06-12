@@ -142,7 +142,7 @@ font-size:30px"><img src="./images/giphy.gif" width="30">  Github Stats</h2>
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrunoDC-dev&theme=nord&column=4&rank=B,BC,A,AC,S,SC,AAA,AA," alt="BrunoDC-dev" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrunoDC-dev&theme=nord&column=3&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews,Experience" alt="BrunoDC-dev" /></a>
 
 </div>
 <div align="center">
