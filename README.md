@@ -10,7 +10,7 @@ style="max-width:700px">
 
 <div style="width:100%; display:flex ; align-items:center ; justify-content:space-around; max-width:700px">
 <div style="width:45%; font-size:14px; text-align:left">
-Currently, I'm exploring tech at Blue Nose while studying AI Engineering 🤖 at UDESA. Learning C 🌱 on the side. Chat with me about SQL, Java, JavaScript, or MongoDB 💬. And when I'm not coding, you'll catch me strategizing on the Chessboard ⚡.
+Currently, I'm diving deep into the world of Machine Learning as an AI Engineer 🤖 at UDESA. I'm passionate about building intelligent systems and working with data. Chat with me about TensorFlow, PyTorch, Scikit-learn, or anything data-related 💬. And when I'm not training models, you'll catch me strategizing on the Chessboard ⚡.
 </div>
 <img width="45%" alt="Github" src="./images/animation_500_kxa883sd.gif" />
 </div>
@@ -18,116 +18,15 @@ Currently, I'm exploring tech at Blue Nose while studying AI Engineering 🤖 at
 
 
 
-<h2 style="max-width:700px ;font-size:30px"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
-<table style="width: 100%; border-collapse ; max-width:700px;  collapse; ">
-  <tr   style="width: 100%;">
-    <th style="text-align: center; border: 1px solid grey; width:33%;">
-        FrontEnd
-    </th>
-    <th style="text-align: center; border: 1px solid grey;  width: 33%;">
-        FullStack
-    </th>
-    <th style="text-align: center; border: 1px solid grey;  width: 33%;">
-        Backend
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=react" alt="">
-        <img src="https://skillicons.dev/icons?i=redux "alt="">
-        <img src="https://skillicons.dev/icons?i=html "alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=js" alt="">
-        <img src="https://skillicons.dev/icons?i=next "alt="">
-        <img src="https://skillicons.dev/icons?i=ts "alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="">
-        <img src="https://skillicons.dev/icons?i=express"alt="">
-    </td>
-     </tr>
-<tr>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=css "alt="">
-        <img src="https://skillicons.dev/icons?i=jquery "alt="">
-        <img src="https://skillicons.dev/icons?i=sass "alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=php" alt="">
-        <img src="https://skillicons.dev/icons?i=laravel "alt="">
-        <img src="./images/codeigniter (1).svg" width="47px" background="blue">   
-    </td>
-</tr>
-<tr>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=tailwind "alt="">
-        <img src="https://skillicons.dev/icons?i=bootstrap "alt="">
-    </td>
-</tr>
-</table>
-<table style="width: 100%; border-collapse: collapse;max-width:700px; ">
-<tr>
-    <th style="text-align: center; border: 1px solid grey;  width: 33.3%;">
-        Databases
-    </th>
-    <th style="text-align: center; border: 1px solid grey;  width: 33.3%;">
-        Other Languages
-    </th>
-        <th style="text-align: center; border: 1px solid grey;  width: 33.3%;">
-        Operating Systems
-    </th>
-  </tr>
-     <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="">
-        <img src="https://skillicons.dev/icons?i=firebase "alt="">
-        <img src="https://skillicons.dev/icons?i=sqlite"alt="">
-        </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=java" alt="">
-        <img src="https://skillicons.dev/icons?i=py "alt="">
-        <img src="https://skillicons.dev/icons?i=ros "alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=linux" alt="">
-        <img src="https://skillicons.dev/icons?i=ubuntu"alt="">
-        <img src="https://skillicons.dev/icons?i=windows" alt="">
-    </td>
-</tr>
-<tr>
- <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=haskell" alt="">
-    </td>
-    <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=apple" alt="">
-    </td>
-</tr>
-</table>
-<table style="width: 100%; border-collapse: collapse; max-width:700px; ">
-<tr>
-    <th style="text-align: center; border: 1px solid grey;  width: 100%;">
-        Tools
-    </th>
-    </tr>
-    <tr>
-      <td style="text-align: center; border: 1px solid grey;">
-        <img src="https://skillicons.dev/icons?i=bash" alt="">
-        <img src="https://skillicons.dev/icons?i=docker "alt="">
-        <img src="https://skillicons.dev/icons?i=git"alt="">
-        <img src="https://skillicons.dev/icons?i=npm" alt="">
-        <img src="https://skillicons.dev/icons?i=postman "alt="">
-        <img src="https://skillicons.dev/icons?i=powershell"alt="">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="">
-        <img src="https://skillicons.dev/icons?i=vite "alt="">
-         <img src="https://skillicons.dev/icons?i=github" alt="">
-        <img src="https://skillicons.dev/icons?i=idea "alt="">
-        <img src="https://skillicons.dev/icons?i=md"alt="">
-    </td>
-    </tr>
-    </table>
+<h2 style="max-width:700px ;font-size:30px"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
+<!-- SKILLS: íconos individuales, lado a lado con wrap -->
+
+
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center; align-items:center; max-width:980px; margin:0 auto;">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
 
 
 <h2 style="display:flex; align-items:center ; justify-content:center ; gap:5px ; max-width:700px;
