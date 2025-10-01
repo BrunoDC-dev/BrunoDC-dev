@@ -2,7 +2,7 @@
 <div align="center" >
 <img src="./images/line-neon.gif" width="100%" style="max-width:700px">
 <!-- GIF HEADER -->
-<img src="./images/github-header-image.png" width="100%" 
+<img src="./images/header.png" width="100%" 
 style="max-width:700px">
 
 
