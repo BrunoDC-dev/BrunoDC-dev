@@ -6,9 +6,9 @@
 
 ### AI & Data Builder
 
-**Consulting, Automation & Tech Products | Data Scientist at Mercado Libre**
+**Building with AI, data and software | Data Scientist at Mercado Libre**
 
-I turn operational problems into useful systems with AI, data, and software.
+I like turning messy problems into simple systems people actually use.
 
 <a href="https://www.linkedin.com/in/bruno-de-cruz/">
   <img src="https://img.shields.io/badge/LinkedIn-Bruno%20De%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,33 +21,34 @@ I turn operational problems into useful systems with AI, data, and software.
 
 ## What I Care About
 
-I like building where there is friction: manual processes, scattered data, disconnected tools, unclear decisions, or product ideas that need a first useful version.
+I like building where there is friction: manual processes, scattered data, disconnected tools, unclear decisions, or ideas that have not yet become products.
 
 I work as a Data Scientist at Mercado Libre, within Fraud Prevention. That is my technical foundation. My broader focus is building AI, data, and software solutions that work on real problems.
 
-I am not interested in selling technology because it is trendy. I am interested in understanding where time is lost, where data is missing, where a process breaks, and how to build a simple solution that creates value.
+I am interested in the point where technology stops being a pitch and starts becoming an operating system for a real workflow.
 
 My best introduction is talking to people who have worked with me.
 
-## I Can Help With
+## Building Thesis
 
-| Area | What I build |
+| Belief | How I think about it |
 | --- | --- |
-| Automation | Internal tools, workflow automation, repetitive process reduction |
-| Data | Dashboards, analysis, decision-support tools, data cleanup |
-| AI | Applied ML prototypes, classification, prediction, AI-assisted workflows |
-| Product | MVPs, product experiments, technical validation for ideas |
-| Backend | APIs, services, integrations, databases, CRM workflows |
+| Start close to the problem | The first version should teach you something real. |
+| Keep the system simple | Complexity is expensive until the problem is proven. |
+| Build before over-planning | A working prototype reveals what documents hide. |
+| Use AI where it compounds | AI should reduce friction, not decorate the product. |
+| Learn from users and operators | The best product feedback usually lives inside the workflow. |
 
 ## Current Focus
 
 - Data Science and Fraud Prevention at Mercado Libre
 - AI Engineering and applied machine learning
-- Automation for business operations
 - Building small, useful systems before scaling them
 - Turning product ideas into working prototypes
+- Understanding operational problems that can become software products
+- Exploring where AI can remove real workflow friction
 
-## Proof Points
+## Signals
 
 - Data Scientist at Mercado Libre, Fraud Prevention
 - AI Engineering student at Universidad de San Andres
@@ -58,13 +59,21 @@ My best introduction is talking to people who have worked with me.
 - 2nd place at JPMorgan Chase Hackathon 2025
 - Backend and full-stack experience with CRM integrations and product development
 
-## How I Work
+## Things I Like Building
 
-1. Understand the real problem.
-2. Find the shortest path to a useful first version.
-3. Build with simple, reliable technology.
-4. Test against reality.
-5. Improve based on signal, not assumptions.
+- Internal tools that remove repeated manual work
+- Data products that make decisions clearer
+- AI prototypes for real operational workflows
+- APIs and integrations between tools that should already talk to each other
+- MVPs that help test whether an idea deserves more time
+
+## Operating Principles
+
+1. Talk to the people closest to the problem.
+2. Build the smallest useful version.
+3. Test it against reality.
+4. Keep what creates signal.
+5. Cut what only sounds good in theory.
 
 ## Tech Stack
 
@@ -109,12 +118,12 @@ My best introduction is talking to people who have worked with me.
 
 </div>
 
-## Open To
+## Currently Exploring
 
-- Consulting projects around automation, data, and applied AI
-- Early-stage tech product ideas that need a working MVP
-- Collaborating with founders and teams solving operational problems
-- Research, teaching, and technical writing around AI and software
+- AI-assisted workflows for operations
+- Data products for risk, decisions, and process visibility
+- Founder-led products built from narrow, painful problems
+- Technical writing around AI, software, and building useful systems
 
 ## Connect
 
