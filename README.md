@@ -1,81 +1,112 @@
-<!-- RAINBOW LINE TOP -->
-<div align="center" >
-<img src="./images/line-neon.gif" width="100%" style="max-width:700px">
-<!-- GIF HEADER -->
-<img src="./images/header.png" width="100%" 
-style="max-width:700px">
+<div align="center">
 
+<img src="./images/line-neon.gif" width="100%" alt="" />
 
-<h2 style="max-width:700px" > About Me </h2>
+# Bruno De Cruz
 
-<div style="width:100%; display:flex ; align-items:center ; justify-content:space-around; max-width:700px">
-<div style="width:45%; font-size:14px; text-align:left">
-Currently, I'm diving deep into the world of Machine Learning as an AI Engineer 🤖 at UDESA. I'm passionate about building intelligent systems and working with data. Chat with me about TensorFlow, PyTorch, Scikit-learn, or anything data-related 💬. And when I'm not training models, you'll catch me strategizing on the Chessboard ⚡.
-</div>
-<img width="45%" alt="Github" src="./images/animation_500_kxa883sd.gif" />
-</div>
+### AI & Data Builder | Consulting, Automation & Tech Products | Data Scientist at Mercado Libre
 
+I build AI, data, and software solutions that turn operational problems into useful systems.
 
-
-
-<h2 style="max-width:700px ;font-size:30px"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
-<!-- SKILLS: íconos individuales, lado a lado con wrap -->
-
-
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center; align-items:center; max-width:980px; margin:0 auto;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<a href="https://www.linkedin.com/in/bruno-de-cruz/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20De%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:brunodecruz.05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-brunodecruz.05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
+## About
 
-<h2 style="display:flex; align-items:center ; justify-content:center ; gap:5px ; max-width:700px;
-font-size:30px"><img src="./images/giphy.gif" width="30">  Github Stats</h2>
+AI, data, and software to turn operational problems into useful systems.
 
+I work as a Data Scientist at Mercado Libre, within Fraud Prevention. That is my technical foundation. My broader focus is building AI, data, and software solutions that work on real problems.
+
+I am not interested in selling technology because it is trendy. I am interested in understanding where time is lost, where data is missing, where a process breaks, and how to build a simple solution that creates value.
+
+My best introduction is talking to people who have worked with me.
+
+If you are building a product, automating processes, or looking to apply AI to a real problem, I would be glad to connect.
+
+## What I Build
+
+- Automation for manual and repetitive workflows
+- Data analysis, dashboards, and decision-support tools
+- Backend services, APIs, and system integrations
+- AI prototypes and applied machine learning solutions
+- MVPs and technical validation for product ideas
+- CRM and business process integrations
+
+## Current Focus
+
+- Data Science and Fraud Prevention at Mercado Libre
+- AI Engineering and applied machine learning
+- Automation for business operations
+- Tech products that solve concrete problems
+- End-to-end execution: problem, prototype, product, iteration
+
+## Background
+
+- Data Scientist at Mercado Libre, Fraud Prevention
+- AI Engineering student at Universidad de San Andres
+- Microsoft Certified: Azure AI Engineer Associate
+- Research assistant in applied intelligent systems
+- Teaching assistant in Programming Paradigms, Haskell and Java
+- Hackathon winner at HackITBA 2024
+- 2nd place at JPMorgan Chase Hackathon 2025
+- Backend and full-stack experience with CRM integrations and product development
+
+## Tech Stack
+
+### AI, Data and Cloud
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Software and Product
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Databases, Tools and Systems
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## GitHub
 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDC-dev&layout=compact&theme=nord)
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrunoDC-dev&theme=nord&column=3&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews,Experience" alt="BrunoDC-dev" /></a>
-
-</div>
-<div align="center">
-
-![bruno stats](https://github-readme-stats.vercel.app/api?username=BrunoDC-dev&show_icons=true&theme=nord&hide=issues,contribs)
-
-</div>
-
-
-<div align="center">
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDC-dev&show_icons=true&theme=nord&hide=issues,contribs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BrunoDC-dev&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
-<h2 style="max-width:700px ;font-size:25px"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">  Connect with me </h2>
+## Connect
+
+- LinkedIn: [linkedin.com/in/bruno-de-cruz](https://www.linkedin.com/in/bruno-de-cruz/)
+- Email: [brunodecruz.05@gmail.com](mailto:brunodecruz.05@gmail.com)
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bruno-de-cruz/" traget="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="mailto:brunodecruz.05@gmail.com" traget="_blank">
- <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://wa.me/+5491124618992" traget="_blank">
-  <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-  <a href="https://discord.com/users/brunodecruz
-  " traget="_blank">
-  <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-</div>
+<img src="./images/line-neon.gif" width="100%" alt="" />
 
-<!-- GIF FOOTER -->
-<img src="./images/line-neon.gif" width="100%" style="max-width:700px">
 </div>
