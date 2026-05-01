@@ -4,9 +4,11 @@
 
 # Bruno De Cruz
 
-### AI & Data Builder | Consulting, Automation & Tech Products | Data Scientist at Mercado Libre
+### AI & Data Builder
 
-I build AI, data, and software solutions that turn operational problems into useful systems.
+**Consulting, Automation & Tech Products | Data Scientist at Mercado Libre**
+
+I turn operational problems into useful systems with AI, data, and software.
 
 <a href="https://www.linkedin.com/in/bruno-de-cruz/">
   <img src="https://img.shields.io/badge/LinkedIn-Bruno%20De%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,9 +19,9 @@ I build AI, data, and software solutions that turn operational problems into use
 
 </div>
 
-## About
+## What I Care About
 
-AI, data, and software to turn operational problems into useful systems.
+I like building where there is friction: manual processes, scattered data, disconnected tools, unclear decisions, or product ideas that need a first useful version.
 
 I work as a Data Scientist at Mercado Libre, within Fraud Prevention. That is my technical foundation. My broader focus is building AI, data, and software solutions that work on real problems.
 
@@ -27,35 +29,42 @@ I am not interested in selling technology because it is trendy. I am interested 
 
 My best introduction is talking to people who have worked with me.
 
-If you are building a product, automating processes, or looking to apply AI to a real problem, I would be glad to connect.
+## I Can Help With
 
-## What I Build
-
-- Automation for manual and repetitive workflows
-- Data analysis, dashboards, and decision-support tools
-- Backend services, APIs, and system integrations
-- AI prototypes and applied machine learning solutions
-- MVPs and technical validation for product ideas
-- CRM and business process integrations
+| Area | What I build |
+| --- | --- |
+| Automation | Internal tools, workflow automation, repetitive process reduction |
+| Data | Dashboards, analysis, decision-support tools, data cleanup |
+| AI | Applied ML prototypes, classification, prediction, AI-assisted workflows |
+| Product | MVPs, product experiments, technical validation for ideas |
+| Backend | APIs, services, integrations, databases, CRM workflows |
 
 ## Current Focus
 
 - Data Science and Fraud Prevention at Mercado Libre
 - AI Engineering and applied machine learning
 - Automation for business operations
-- Tech products that solve concrete problems
-- End-to-end execution: problem, prototype, product, iteration
+- Building small, useful systems before scaling them
+- Turning product ideas into working prototypes
 
-## Background
+## Proof Points
 
 - Data Scientist at Mercado Libre, Fraud Prevention
 - AI Engineering student at Universidad de San Andres
 - Microsoft Certified: Azure AI Engineer Associate
 - Research assistant in applied intelligent systems
 - Teaching assistant in Programming Paradigms, Haskell and Java
-- Hackathon winner at HackITBA 2024
+- HackITBA 2024 winner
 - 2nd place at JPMorgan Chase Hackathon 2025
 - Backend and full-stack experience with CRM integrations and product development
+
+## How I Work
+
+1. Understand the real problem.
+2. Find the shortest path to a useful first version.
+3. Build with simple, reliable technology.
+4. Test against reality.
+5. Improve based on signal, not assumptions.
 
 ## Tech Stack
 
@@ -88,7 +97,7 @@ If you are building a product, automating processes, or looking to apply AI to a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## GitHub
+## GitHub Snapshot
 
 <div align="center">
 
@@ -99,6 +108,13 @@ If you are building a product, automating processes, or looking to apply AI to a
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BrunoDC-dev&theme=nord)](https://git.io/streak-stats)
 
 </div>
+
+## Open To
+
+- Consulting projects around automation, data, and applied AI
+- Early-stage tech product ideas that need a working MVP
+- Collaborating with founders and teams solving operational problems
+- Research, teaching, and technical writing around AI and software
 
 ## Connect
 
